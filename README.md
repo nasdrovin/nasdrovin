@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Ítalo! 👋
 
-<!--
-**nasdrovin/nasdrovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me 🚨
+I'm a Full Stack Web Student at [Rocketseat](https://www.rocketseat.com.br/) 🚀.
 
-Here are some ideas to get you started:
+#### Currrent Stack 🧐
+- FrontEnd: `HTML`, `CSS`, `JavaScript`, `ReactJS`
+- BackEnd: `MySQL`, `NodeJS`
+- Layout Design: `Figma`
+- Tools: `vsCode`
+- Main Language: `JavaScript`📌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+🌐[LinkedIn](https://www.linkedin.com/in/nasdrovin/)
+
+🌐[Youtube](https://www.youtube.com/@nasdrovin)
+
+🌐[Instagram](https://www.instagram.com/nasdrovin/)
