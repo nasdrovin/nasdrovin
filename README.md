@@ -5,7 +5,7 @@ I'm a Full Stack Web Student🚀.
 
 #### Currrent Stack 🧐
 - FrontEnd: `HTML`, `CSS`, `JavaScript`, `ReactJS`
-- BackEnd: `MySQL`, `NodeJS`, `Python`
+- BackEnd: `SQL`, `NodeJS`, `Python`
 - Layout Design: `Figma`
 - Tools: `vsCode`
 - Main Language: `Python`📌
